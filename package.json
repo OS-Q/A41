@@ -1,0 +1,6 @@
+{
+    "name": "framework-N10",
+    "description": "framework-N10 with Arduino (Nordic nRF52 Core)",
+    "version": "1.0.0",
+    "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino"
+}

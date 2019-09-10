@@ -6,13 +6,7 @@
 
 ### [Framework描述](https://github.com/OS-Q/N10/wiki) 
 
-[Framework N10](https://github.com/OS-Q/N10) 用于支持NRF52 Arduino
-
-### [关联资源](https://github.com/OS-Q/)
-
- *  [ Platform : nRF52](https://github.com/OS-Q/H5) 
- *  [ M3](https://github.com/OS-Q/M3) 
-
+[Framework N10](https://github.com/OS-Q/N10) 用于支持[ Platform : H9](https://github.com/OS-Q/H9) 平台运行arduino，本仓库针对自动化编程进行优化，便于自动识别深度结合，可能会牺牲部分代码的可阅读性，学习使用本资源可以参考原工程 https://github.com/adafruit/Adafruit_nRF52_Arduino
 
 ### [OS-Q = Open Solutions | Open Source |  Operating System ](http://www.OS-Q.com/N10)
-####  2019-9-6
+####  2019-9-10
