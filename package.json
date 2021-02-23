@@ -1,6 +1,17 @@
 {
-    "name": "framework-N10",
-    "description": "framework-N10 with Arduino (Nordic nRF52 Core)",
-    "version": "1.0.0",
+  "name": "A41",
+  "version": "1.2100.201028",
+  "description": "Arduino Wiring-based Framework for Nordic Semiconductor nRF52 BLE SoC",
+  "keywords": [
+    "framework",
+    "OS-Q",
+    "arduino",
+    "nordic semiconductor",
+    "nrf52"
+  ],
+  "repository": {
+    "type": "git",
     "url": "https://github.com/adafruit/Adafruit_nRF52_Arduino"
+  }
 }
+
