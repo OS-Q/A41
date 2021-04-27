@@ -1,10 +1,9 @@
 {
-  "name": "A41",
-  "version": "1.21.20210225",
+  "name": "framework-arduinoadafruitnrf52",
+  "version": "1.2100.201028",
   "description": "Arduino Wiring-based Framework for Nordic Semiconductor nRF52 BLE SoC",
   "keywords": [
     "framework",
-    "OS-Q",
     "arduino",
     "nordic semiconductor",
     "nrf52"
